@@ -22,7 +22,7 @@
       <!-- Navbar -->
       <nav class="nav">
         <!-- Logo -->
-        <div class="logo"> <H1>PHONE SHOP WELCOME</H1></div>
+        <div class="logo"> <H1> hello i update on this</H1></div>
        
         
         <!-- End of Logo -->
